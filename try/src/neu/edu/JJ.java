@@ -1,7 +1,5 @@
 package neu.edu;
 
-import javax.persistence.Temporal;
-
 public class JJ {
 	
 	public static void main(String[] args) {
