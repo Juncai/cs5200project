@@ -1,6 +1,5 @@
 package neu.edu;
 
-import javax.persistence.Temporal;
 
 public class JJ {
 	
